@@ -4,7 +4,7 @@ public class Review24 {
             for (int j = 1; j <= 9; j++) {
                 System.out.print(i * j + "\t");
             }
-            System.out.println();
+            System.out.print("\n");
         }
     }
 }
