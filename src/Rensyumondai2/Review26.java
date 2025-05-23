@@ -1,3 +1,5 @@
+package Rensyumondai2;
+
 public class Review26 {
     public static void main(String[] args) {
         int[] numArray = {11,12,13,14,15};
